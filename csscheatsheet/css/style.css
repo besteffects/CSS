@@ -9,7 +9,12 @@ body{
 	line-height: 1.6em;
 	margin:0;
 }
+.container{
+	width:960px;
+	margin:auto;
+}
 
 .box-1{
 	background-color: #333333;
+	color:#fff;
 }
